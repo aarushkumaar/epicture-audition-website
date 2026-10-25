@@ -51,7 +51,7 @@ export const DEFAULT_CANDIDATE = {
   number: "027",
   years: "2",
   weapon: "Behind the camera",
-  whatsappLink: "https://chat.whatsapp.com/sampleEpictureInvite2026",
+  whatsappLink: "https://chat.whatsapp.com/LK9H9Xi2yBTEQq6KMeYdWe?mode=gi_t",
 };
 
 export const PRESET_PERSONAS = [
