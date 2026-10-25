@@ -1,0 +1,6 @@
+{
+  "name": "Epicture — Inner Circle Initiation",
+  "description": "A digital initiation experience for students selected for the Epicture Photography & Cinematography Society Inner Circle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
