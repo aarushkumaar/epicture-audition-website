@@ -54,7 +54,7 @@ export const CandidateNotFound: React.FC<CandidateNotFoundProps> = ({ slug }) =>
         <div className="p-4 bg-butter/60 border border-charcoal/20 rounded-xs mb-8 text-left font-mono text-xs text-charcoal/80 space-y-1">
           <div className="text-[10px] text-black/50 uppercase tracking-widest font-bold">POSSIBLE NEXT STEPS:</div>
           <div>1. Verify the candidate link spelling (e.g. /candidate/aarush).</div>
-          <div>2. If you are an administrator, register this candidate in <Link to="/admin" className="underline font-bold text-cobalt hover:text-charcoal">/admin</Link>.</div>
+          <div>2. bbg, are you lost-</div>
           <div>3. Or return to the central Epicture landing experience below.</div>
         </div>
 
